@@ -14,5 +14,3 @@
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-https://lucianoscabora.github.io/estudo-landing-page-ffxiv/
