@@ -11,6 +11,4 @@
  
  <br>
   
-  ![Snake animation](https://github.com/lucianoscabora/lucianoscabora/blob/output/github-contribution-grid-snake.svg) 
-  
 
