@@ -1,3 +1,17 @@
+# Hello! I am Luciano 👋
+
+I live in Brazil and currectly i'm working as Frontend Developer. My short time objectives revolve around getting really good at software engeneering and to be able to help new devs with my knowledge and experience.
+
+## 🛠 Skills
+ Frontend: HTML, CSS, Javascript and React.
+ 
+ ### More about me
+👨🏻‍💻 I just started recently a position as frontend developer at BEES Brasil 🐝.
+
+🧠 I'll be improving my frontend skills and obtain more knowledge as I prospect in a near future to learn backend too.
+
+
+
 <div>
   <a href="https://github.com/lucianoscabora">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianoscabora&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
