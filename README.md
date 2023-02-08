@@ -1,8 +1,8 @@
-# Hello! I am Luciano 👋
+# 👋 Hello! I am Luciano 
 
 I live in Brazil and currectly i'm working as Frontend Developer. My short time objectives revolve around getting really good at software engeneering and to be able to help new devs with my knowledge and experience.
 
-## 🛠 Skills
+## 🛠 Skills 
  Frontend: HTML, CSS, Javascript and React.
  
  ## More about me
@@ -10,7 +10,10 @@ I live in Brazil and currectly i'm working as Frontend Developer. My short time 
 
 🧠 I'll be improving my frontend skills and obtain more knowledge as I prospect in a near future to learn backend too.
 
-##
+
+
+
+
 
 <div>
   <a href="https://github.com/lucianoscabora">
