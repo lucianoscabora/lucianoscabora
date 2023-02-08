@@ -5,12 +5,12 @@ I live in Brazil and currectly i'm working as Frontend Developer. My short time 
 ## 🛠 Skills
  Frontend: HTML, CSS, Javascript and React.
  
- ### More about me
+ ## More about me
 👨🏻‍💻 I just started recently a position as frontend developer at BEES Brasil 🐝.
 
 🧠 I'll be improving my frontend skills and obtain more knowledge as I prospect in a near future to learn backend too.
 
-
+##
 
 <div>
   <a href="https://github.com/lucianoscabora">
